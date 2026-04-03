@@ -1,10 +1,9 @@
-
 # Awesome Mautic
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Repositories and Themes.
+A Curated List of <a href="https://github.com/mautic/mautic" target="_blank" rel="noopener noreferrer">Mautic</a> Plugins, Blogs, Repositories and Themes.
 
-> Do you have a plugin, theme or snippet? [Make a pull request!](https://github.com/luizeof/awesome-mautic/pulls)
+> Do you have a plugin, theme or snippet? <a href="https://github.com/aiviemarketing/awesome-mautic/pulls" target="_blank" rel="noopener noreferrer">Make a pull request!</a>
 
 <!-- TOC -->
 
@@ -18,61 +17,84 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 
 <!-- /TOC -->
 
-## Official Repositories
+# 📦 Official Repositories
 
-- [mautic/mautic](https://github.com/mautic/mautic) - Mautic Open Source Marketing Automation Software Official Repository
-- [mautic/documentation](https://github.com/mautic/documentation) - Mautic End User Documentation
-- [mautic/docker-mautic](https://github.com/mautic/docker-mautic) - Official Docker Image for Mautic
-- [mauitic/api-library](https://github.com/mautic/api-library) - Mautic PHP API Library Wrapper
-- [mautic/wordpress](https://github.com/mautic/mautic-wordpress) - Wordpress Plugin to add Tracking Code and Custom Shortcodes for using Forms, Tags, Focus and Dinamic Content on Wordpress Pages
-- [mautic/composer-plugin](https://github.com/mautic/composer-plugin) - A composer plugin that mautic plugin and theme developers can use to distribute their code.
-- [mautic/mautic-zapier](https://github.com/mautic/mautic-zapier) - Zapier JS app communicating with Mautic
-- [https://www.drupal.org/project/mautic](https://www.drupal.org/project/mautic) - Adds the Mautic web statistics tracking system to your Drupal website. [You can find more Drupal modules here](https://www.drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&f%5B6%5D=&text=mautic&solrsort=iss_project_release_usage+desc&op=Search).
+| Name | Author | Category | GitHub | Website | Last updated |
+|------|--------|----------|--------|---------|-------------|
+| mautic/api-library | Mautic | Official | <a href="https://github.com/mautic/api-library" target="_blank" rel="noopener noreferrer">GitHub</a> | - | Feb 2026 |
+| mautic/composer-plugin | Mautic | Official | <a href="https://github.com/mautic/composer-plugin" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Oct 2024 |
+| mautic/docker-mautic | Mautic | Official | <a href="https://github.com/mautic/docker-mautic" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Jan 2026 |
+| mautic/documentation | Mautic | Official | <a href="https://github.com/mautic/documentation" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Feb 2026 |
+| mautic/mautic | Mautic | Official | <a href="https://github.com/mautic/mautic" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://mautic.org/" target="_blank" rel="noopener noreferrer">Website</a> | Mar 2026 |
+| mautic/mautic-zapier | Mautic | Integration | <a href="https://github.com/mautic/mautic-zapier" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Jun 2022 |
+| mautic/mautic-wordpress | Mautic | Integration | <a href="https://github.com/mautic/mautic-wordpress" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Nov 2024 |
+| mautic (Drupal module) | Drupal community | Integration | — | <a href="https://www.drupal.org/project/mautic" target="_blank" rel="noopener noreferrer">Website</a> | Unknown |
 
-## Plugins
+---
 
-- [mautic/mautic-typo3](https://github.com/mautic/mautic-typo3) - Add-on TYPO3 extension
-- [thirdset/ThirdSetMauticTimingBundle](https://github.com/thirdset/ThirdSetMauticTimingBundle) - Mautic plugin for setting the timing (hours of the day, days of the week, etc) for when to trigger campaign events.
-- [ChrisRAoW/mautic-rss-to-email-bundle](https://github.com/ChrisRAoW/mautic-rss-to-email-bundle) - Mautic plugin to send emails from RSS
-- [azamuddin/mautic-mailgun-plugin](https://github.com/azamuddin/mautic-mailgun-plugin) - Mautic plugin to add mailgun transport
-- [TheDMSGroup/mautic-extended-field](https://github.com/TheDMSGroup/mautic-extended-field) - Extends Mautic custom fields for scalability and HIPAA/PCI compliance.
-- [TheDMSGroup/mautic-contact-ledger](https://github.com/TheDMSGroup/mautic-contact-ledger) - Historical accounting for contacts in Mautic.
-- [Logicify/mautic-advanced-templates-bundle](https://github.com/Logicify/mautic-advanced-templates-bundle) - Plugin extends default email template capabilities with TWIG block
-- [thirdset/ThirdSetMauticTimingBundle](https://github.com/thirdset/ThirdSetMauticTimingBundle) - Mautic plugin for setting the timing (hours of the day, days of the week, etc) for when to trigger campaign events.
-- [mtcextendee/mautic-extendee-form-tab-bundle](https://github.com/mtcextendee/mautic-extendee-form-tab-bundle) - FromTab bundle added related contacts form results to contacts profile.
-- [mtcextendee/mautic-extendee-webhook-response-bundle](https://github.com/mtcextendee/mautic-extendee-webhook-response-bundle) - Get Webhook Response from Mautic
-- [Monogramm/MauticLdapAuthBundle](https://github.com/Monogramm/MauticLdapAuthBundle) - Enables LDAP authentication for mautic 2 and newer
-- [mtcextendee/mautic-international-phone-input-bundle](https://github.com/mtcextendee/mautic-international-phone-input-bundle) - This plugin brings International phone input to Mauti forms
-- [https://github.com/mtcextendee/mautic-plivo-bundle](https://github.com/mtcextendee/mautic-plivo-bundle) - Plivo SMS integration for Mautic
-- [mtcextendee/mautic-badge-generator-bundle](https://github.com/mtcextendee/mautic-badge-generator-bundle) - Badge PDF generator
-- [KonstantinCodes/mautic-recaptcha](https://github.com/KonstantinCodes/mautic-recaptcha) - This Plugin brings reCAPTCHA integration to mautic.
-- [mautic-inc/plugin-slooce](https://github.com/mautic-inc/plugin-slooce) - Slooce SMS Transport for Mautic
-- [mtcextendee/mautic-recommender-bundle](https://github.com/mtcextendee/mautic-recommender-bundle) - The first product recommendations system for Mautic
-- [hostnetbr/mautic-namesanitizer](https://github.com/hostnetbr/mautic-namesanitizer) - Um plugin do Mautic que faz uma correção e limpeza nos nomes dos contatos cadastrados
-- [hostnetbr/mautic-googleauthenticator](https://github.com/hostnetbr/mautic-googleauthenticator) - Enables Google Authentication on Mautic Login
-- [gautit.com/gautit-backup-plugin](https://gautit.com/gautit-backup-plugin/) - Make Mautic Backup from Admin interface
+# 🔌 Plugins
 
-## Libraries
+| Name | Author | Category | GitHub | Website | Last updated |
+|------|--------|----------|--------|---------|-------------|
+| Advanced Templates Bundle | Logicify | Dynamic Content | <a href="https://github.com/Logicify/mautic-advanced-templates-bundle" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Mar 2021 |
+| Badge Generator Bundle | mtcextendee | Generator | <a href="https://github.com/mtcextendee/mautic-badge-generator-bundle" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Jul 2021 |
+| Backup Plugin | Gautit | Infrastructure | — | <a href="https://gautit.com/gautit-backup-plugin/" target="_blank" rel="noopener noreferrer">Website</a> | Unknown |
+| Bexio Plugin | Aivie | Integration | — | <a href="https://aivie.ch/product/mautic-bexio-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=bexio-plugin" target="_blank" rel="noopener noreferrer">Website</a> | 2025 |
+| Cal.com Plugin | Aivie | Integration | — | <a href="https://aivie.ch/product/mautic-cal-com-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=cal-com-plugin" target="_blank" rel="noopener noreferrer">Website</a> | 2025 |
+| ChatGPT Email Wizard Plugin | Aivie | AI | — | <a href="https://aivie.ch/en/product/mautic-e-mail-wizard-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=chatgpt-email-wizard-plugin" target="_blank" rel="noopener noreferrer">Website</a> | 2025 |
+| Contact Ledger | TheDMSGroup | Contact | <a href="https://github.com/TheDMSGroup/mautic-contact-ledger" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Sep 2023 |
+| Dripify Plugin | Aivie | Integration | <a href="https://github.com/aiviemarketing/plugin-dripify" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Apr 2026 |
+| Email & Landing Page Builder | Aivie | Core UX | — | <a href="https://aivie.ch/product/mautic-builder-for-e-mail-und-landingpages/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=email-landing-page-builder" target="_blank" rel="noopener noreferrer">Website</a> | 2026 |
+| Extended Field Bundle | TheDMSGroup | Contact | <a href="https://github.com/TheDMSGroup/mautic-extended-field" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Aug 2023 |
+| Extendee Form Tab Bundle | mtcextendee | Form | <a href="https://github.com/mtcextendee/mautic-extendee-form-tab-bundle" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Jun 2021 |
+| Extendee Webhook Response Bundle | mtcextendee | Integration | <a href="https://github.com/mtcextendee/mautic-extendee-webhook-response-bundle" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Jun 2021 |
+| Google Authenticator Plugin | hostnetbr | Security | <a href="https://github.com/hostnetbr/mautic-googleauthenticator" target="_blank" rel="noopener noreferrer">GitHub</a> | — | May 2021 |
+| International Phone Input Bundle | mtcextendee | Form | <a href="https://github.com/mtcextendee/mautic-international-phone-input-bundle" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Jul 2021 |
+| LDAP Auth Bundle | Monogramm | Security | <a href="https://github.com/Monogramm/MauticLdapAuthBundle" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Oct 2023 |
+| Mailgun Plugin | azamuddin | Integration | <a href="https://github.com/azamuddin/mautic-mailgun-plugin" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Apr 2020 |
+| Mailtrap Plugin | Aivie | Integration | — | <a href="https://aivie.ch/product/mautic-mailtrap-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=mailtrap-plugin" target="_blank" rel="noopener noreferrer">Website</a> | 2025 |
+| Name Sanitizer | hostnetbr | Contact | <a href="https://github.com/hostnetbr/mautic-namesanitizer" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Apr 2021 |
+| Plivo Bundle | mtcextendee | SMS | <a href="https://github.com/mtcextendee/mautic-plivo-bundle" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Jul 2021 |
+| reCAPTCHA Plugin | Aivie | Security | <a href="https://github.com/aiviemarketing/aivie-recaptcha" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://aivie.ch/product/mautic-recaptcha-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=recaptcha-plugin" target="_blank" rel="noopener noreferrer">Website</a> | Mar 2026 |
+| Recommender Bundle | mtcextendee | Dynamic Content | <a href="https://github.com/mtcextendee/mautic-recommender-bundle" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Aug 2021 |
+| RSS to Email Bundle | ChrisRAoW | Dynamic Content | <a href="https://github.com/ChrisRAoW/mautic-rss-to-email-bundle" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Mar 2020 |
+| Slooce Plugin | mautic-inc | Legacy | <a href="https://github.com/mautic-inc/plugin-slooce" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Feb 2019 |
+| Trello Plugin | Aivie | Integration | <a href="https://github.com/adiux/mautic-trello" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://aivie.ch/product/mautic-trello-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=trello-plugin" target="_blank" rel="noopener noreferrer">Website</a> | Jan 2025 |
+| TYPO3 Plugin | Mautic | Integration | <a href="https://github.com/mautic/mautic-typo3" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Jul 2022 |
 
-- [powerticmkt/mautic_tracking_api](https://github.com/powerticmkt/dart-mautic-tracking-api) - Mautic plugin for App User Monitoring and Tracking easily for Dart and Flutter. Also listed at [pub.dev](https://pub.dev/packages/mautic_tracking_api).
-- [powerticmkt/mautic_api](https://github.com/powerticmkt/dart-mautic-api) - Mautic API Wrapper for Dart and Flutter. Also listed at [pub.dev](https://pub.dev/packages/mautic_api)
-- [https://github.com/moisesbaez/mautic-tracking](https://github.com/moisesbaez/mautic-tracking) - React Tracking tool for Mautic
-- [luk4s/mautic-rails](https://github.com/luk4s/mautic-rails) - Mautic ruby client / wrapper
-- [mjclemente/mauticcfml](https://github.com/mjclemente/mauticcfml) - A CFML wrapper for the Mautic marketing and campaign management API
-- [escopez/mautic-form-submit](https://github.com/escopecz/mautic-form-submit) - PHP library to forward data to a Mautic form
+---
 
-## Themes
+# 📚 Libraries
 
-- [jojotjebaby/mautic-theme-builder](https://github.com/jojotjebaby/mautic-theme-builder) - A theme builder for Mautic
-- [powerticmkt/new-blank-theme](https://github.com/powerticmkt/new-blank-theme) - Full width blank theme for Mautic
-- [Logicify/mautic-theme-skeleton](https://github.com/Logicify/mautic-theme-skeleton) - A skeleton for the Mautic theme with configured SCSS compiler, css inliner and html minifier 
-- [moskoweb/Simple-Email-Theme](https://github.com/moskoweb/Simple-Email-Theme) - A simple, elegant and responsive template that allows you to fully customize by the Mautic email builder
+| Name | Author | Category | GitHub | Website | Last updated |
+|------|--------|----------|--------|---------|-------------|
+| dart-mautic-api | powerticmkt | Community | <a href="https://github.com/powerticmkt/dart-mautic-api" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://pub.dev/packages/mautic_api" target="_blank" rel="noopener noreferrer">Website</a> | Oct 2023 |
+| dart-mautic-tracking-api | powerticmkt | Community | <a href="https://github.com/powerticmkt/dart-mautic-tracking-api" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://pub.dev/packages/mautic_tracking_api" target="_blank" rel="noopener noreferrer">Website</a> | Oct 2023 |
+| mautic-form-submit | escopecz | Community | <a href="https://github.com/escopecz/mautic-form-submit" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Apr 2021 |
+| mautic-rails | luk4s | Community | <a href="https://github.com/luk4s/mautic-rails" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Jan 2020 |
+| mautic-tracking (React) | moisesbaez | Community | <a href="https://github.com/moisesbaez/mautic-tracking" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Mar 2021 |
+| mauticcfml | mjclemente | Community | <a href="https://github.com/mjclemente/mauticcfml" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Feb 2021 |
 
-## Projects
+---
 
-- [https://mautibox.com/](https://mautibox.com/) - A (really) simple PR testing service for Mautic https://mautibox.com
-- [nickian/mautic-whitelabeler](https://github.com/nickian/mautic-whitelabeler) - Easily change the logos, colors and company name in the Mautic user interface
+# 🎨 Themes
+
+| Name | Author | Category | GitHub | Website | Last updated |
+|------|--------|----------|--------|---------|-------------|
+| Mautic Theme Builder | jojotjebaby | Community | <a href="https://github.com/jojotjebaby/mautic-theme-builder" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Jun 2021 |
+| New Blank Theme | powerticmkt | Community | <a href="https://github.com/powerticmkt/new-blank-theme" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Sep 2021 |
+| Simple Email Theme | moskoweb | Community | <a href="https://github.com/moskoweb/Simple-Email-Theme" target="_blank" rel="noopener noreferrer">GitHub</a> | — | May 2021 |
+| Theme Skeleton | Logicify | Community | <a href="https://github.com/Logicify/mautic-theme-skeleton" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Mar 2021 |
+
+---
+
+# 🚀 Projects
+
+| Name | Author | Category | GitHub | Website | Last updated |
+|------|--------|----------|--------|---------|-------------|
+| mautibox | mautibox | Tooling | — | <a href="https://mautibox.com/" target="_blank" rel="noopener noreferrer">Website</a> | Unknown |
+| mautic-whitelabeler | nickian | Community | <a href="https://github.com/nickian/mautic-whitelabeler" target="_blank" rel="noopener noreferrer">GitHub</a> | — | Apr 2021 |
 
 <hr />
 
-This Awesome List is Sponsored by  <a href="https://powertic.com/">Powertic</a>
+Maintained by: <a href="https://aivie.ch/en/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=aivie-contributor" target="_blank" rel="noopener noreferrer">Aivie</a><br> Mautic Hosting and Plugins
