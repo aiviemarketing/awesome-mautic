@@ -44,7 +44,7 @@ A Curated List of <a href="https://github.com/mautic/mautic" target="_blank">Mau
 | Badge Generator Bundle | mtcextendee | Generator |  |  | <a href="https://github.com/mtcextendee/mautic-badge-generator-bundle" target="_blank">GitHub</a> | — | Jul 2021 |
 | Backup Plugin | Gautit | Infrastructure |  |  | — | <a href="https://gautit.com/gautit-backup-plugin/" target="_blank">Website</a> | Unknown |
 | Beefree.io Plugin | Unknown | Email Builder |  |  | — | — | Apr 2022 |
-| Bexio Plugin | Aivie | Integration | 🟢 |  | — | <a href="https://aivie.ch/product/mautic-bexio-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=bexio-plugin" target="_blank">Website</a> | 2025 |
+| Bexio Plugin | Aivie | Integration | 🟢 |  | — | <a href="https://aivie.ch/product/mautic-bexio-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=bexio-plugin" target="_blank">Website</a> | Jan 2026 |
 | Bitly Bundle | Webmecanik | Integration |  | ✅ | <a href="https://github.com/Webmecanik/mautic-bitly-bundle" target="_blank">GitHub</a> | — | Unknown |
 | Cal.com Plugin | Aivie | Integration | 🟢 |  | — | <a href="https://aivie.ch/product/mautic-cal-com-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=cal-com-plugin" target="_blank">Website</a> | 2025 |
 | ChatGPT Email Wizard Plugin | Aivie | AI | 🟢 |  | — | <a href="https://aivie.ch/en/product/mautic-e-mail-wizard-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=chatgpt-email-wizard-plugin" target="_blank">Website</a> | 2025 |
@@ -88,6 +88,7 @@ A Curated List of <a href="https://github.com/mautic/mautic" target="_blank">Mau
 | RSS to Email Bundle | ChrisRAoW | Dynamic Content |  |  | <a href="https://github.com/ChrisRAoW/mautic-rss-to-email-bundle" target="_blank">GitHub</a> | — | Mar 2020 |
 | Slack Notification Plugin | Unknown | Notifications |  |  | — | — | Jul 2022 |
 | Slooce Plugin | mautic-inc | Legacy |  |  | <a href="https://github.com/mautic-inc/plugin-slooce" target="_blank">GitHub</a> | — | Feb 2019 |
+| Stripe Plugin | Aivie | Integration | 🟢 |  | — | <a href="https://aivie.ch/product/aivie-mautic-stripe-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=stripe-plugin" target="_blank">Website</a> | April 2026 |
 | Trello Plugin | Aivie | Integration | 🟢 |  | <a href="https://github.com/adiux/mautic-trello" target="_blank">GitHub</a> | <a href="https://aivie.ch/product/mautic-trello-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=trello-plugin" target="_blank">Website</a> | Jan 2025 |
 | TYPO3 Plugin | Mautic | Integration |  |  | <a href="https://github.com/mautic/mautic-typo3" target="_blank">GitHub</a> | — | Jul 2022 |
 | WhatsApp Plugin for Mautic | Unknown | Messaging |  |  | — | — | Mar 2026 |
