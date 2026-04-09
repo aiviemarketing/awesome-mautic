@@ -65,6 +65,7 @@ A Curated List of <a href="https://github.com/mautic/mautic" target="_blank">Mau
 | Extendee Webhook Response Bundle | mtcextendee | Integration |  |  | <a href="https://github.com/mtcextendee/mautic-extendee-webhook-response-bundle" target="_blank">GitHub</a> | — | Jun 2021 |
 | Facebook Lead Ads Plugin | Unknown | Advertising |  |  | — | — | Oct 2017 |
 | Firebase Cloud Messaging Plugin | Unknown | Push Notifications |  |  | — | — | Nov 2022 |
+| Friendly Captcha | Tax Academy | Integration | 🟢 | | <a href="https://github.com/TAWK-GmbH/mautic-friendlycaptcha">Github</a> | – | March 2026 |
 | Google Authenticator Plugin | hostnetbr | Security |  |  | <a href="https://github.com/hostnetbr/mautic-googleauthenticator" target="_blank">GitHub</a> | — | May 2021 |
 | Handy Tools Bundle | Unknown | Utilities |  |  | — | — | Jul 2024 |
 | Hello World Plugin | dennisameling | Example |  | ✅ | <a href="https://github.com/dennisameling/helloworld-bundle" target="_blank">GitHub</a> | — | Unknown |
