@@ -205,6 +205,7 @@ These connections are examples only. They require a configured workflow on the a
 | Name | Author | Category | Maintained | GitHub | Website | Last updated |
 |------|--------|----------|------------|--------|---------|-------------|
 | Aivie for WooCommerce | Aivie | WordPress | 🟢 | — | <a href="https://wordpress.org/plugins/aivie-for-woocommerce/" target="_blank">WordPress Plugins</a> | Nov 2026 |
+| Integrations for Mautic | Indedmedia | WordPress | 🟢 | — | <a href="https://wordpress.org/plugins/integrations-for-mautic/" target="_blank">WordPress Plugins</a> · <a href="https://indedmedia.com/wp-mautic-integration-plugin-mautic-wordpress-para-woocommerce-y-elementor/" target="_blank">Website</a> | Oct 2026 |
 | mautibox | mautibox | Tooling |  | — | <a href="https://mautibox.com/" target="_blank">Website</a> | Unknown |
 | mautic-whitelabeler | nickian | Community |  | <a href="https://github.com/nickian/mautic-whitelabeler" target="_blank">GitHub</a> | — | Oct 2024 |
 
